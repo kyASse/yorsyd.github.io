@@ -146,4 +146,5 @@ function changeQuantity(key, quantity) {
         listCardItems[key].count = quantity;
     }
     updateCart();
+    
 }
